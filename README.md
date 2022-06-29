@@ -1,3 +1,1 @@
-# senai-versoes-colaboracoes
-Teste Senai
-read me de exemplo
+# senai-versoes-colaboracoes, teste senai, testando as branchs.
